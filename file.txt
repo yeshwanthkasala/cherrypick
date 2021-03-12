@@ -1,0 +1,14 @@
+this is frst line
+this is second line
+this is third line
+this is fourth line
+this is fifth line
+<<<<<<< HEAD
+=======
+this is sixth line
+this is seventh line
+this is eight line
+this is ninth line
+this is tenth line
+this is eleventh line
+>>>>>>> 5546f80... commit F
